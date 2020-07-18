@@ -1,1 +1,110 @@
-<mxfile host="app.diagrams.net" modified="2020-07-18T09:30:24.021Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" version="13.4.6" etag="zr8I9lMQ5OITDu_3Ozvr" type="github"><diagram name="Page-1" id="3e8102d1-ef87-2e61-34e1-82d9a586fe2e">5ZlZb+M2EMc/jR9r6Lb1uHGOFmiBRVO0jwJN0RKxFClQlI9++g4tSpZMJnAWduHN+iERZ3iI8/95eHgWrqr9i0R1+YfICZsFXr6fhY+zIPCjMIJ/2nLoLFGadoZC0txUOhle6b/EGD1jbWlOmklFJQRTtJ4aseCcYDWxISnFblptI9h01BoVxDK8YsRs6z80V6Wx+p53cvxKaFGaoZexcawR/lZI0XIz3iwIN8dP565Q35ep35QoF7uRKXyahSsphOqeqv2KMB3bPmxdu+c3vMN7S8LVJQ0WXpIkizjBy2i9TkP8i+lhi1hL+ikcX1Qd+uBAD6ADFB52JVXktUZYe3aAAthKVTEo+fB4jAPRI3lQGqaqC1hUFPcOJcW3Ic664UZw9YwqyjQ+fxOZI46M2bDiR0PDlWBCgokLrt9pQxnrTRB9z0vSY592ZPqpEqnIfmQykXohoiJKHqCK8QZLo9ph4KEr706MxD0i5QiPwYgMl8XQ90kbeDDyXChVYEn1xBWRtaQgTpAwGPwhp1t4LPTjQ9tQTpqmd8F4I6+jgflau2vfIRNauouYMN/IrrGLlWOnZnKOr9SHwYm8KTgwlAVOkDjAGYxXBSe2wFmJqmo5VQdL2IlCOWrKQbuRqB8KOkNrwr6KhioqOPgw0dSCQ8eTQg7+/azCWiglqlGFL4wW2qFE3TFU65et9oVejOZis6GYzNuGyKb7a2E3Ju3CXHOGyvPxc520EsZTOqLIpiNKXFnlBmwkNhttA+EHhewM8UrkFmJ9YY74wVGC2izrRshg+ddy3zVWySKZYuWHl2EV3wCrhYXVn6SpBXeuVC8Q1vrngEqaKGTFcc73TdR5ogo8m6h46SAqugFRSztRwcwkYq6dDISqIJWe+aWbn58ktTXdNCG7dcHLqiFUmfHdO5T+YgJl6Ehzsf8/QZlaUD7SgionlI9kS5io36PyM1Gms53gWS1JBeeTJutsdw7X4nzjvgzsNTRywLW8AVz9aXNE118ElxymXhwcgK20RBB/pMibh77PQxhuJZxf5gpejf8gqSs63/inNl2uU2Gc3IIu++bnN76RCNRusWol+TywYMExqdUkH905KnEanqFinxFDVyK6xWbet2+eXphYO1e5r0gqDrm/1Fe3nzwJDVwVEA2SUT0IJ/d+Towif4KW77p+SG20ett10QottJ74lkrB9T7JSdiXnZ79OxebV8PrXPaqwYjMCxgcds5afUV5K9omwwfM3uPxZji4cf1+/JHpZ2hxjVR2tur5YWzz5jpF3uK6y7fvQp8pRxw7l7uJ+g2EppnDoQm28XPSSjEl6C3tnWR9Zx6y5Hnndn1C+n1loCScHuH8ZWoTETuI8D9MBBRPP64dfaNfMMOn/wA=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-07-18T10:17:55.650Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="RhkSG3gfylTOvBaoBm7d" version="13.4.6" type="github">
+  <diagram name="Page-1" id="3e8102d1-ef87-2e61-34e1-82d9a586fe2e">
+    <mxGraphModel dx="1564" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="70666756c84bb93c-1" value="" style="ellipse;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=14;strokeColor=none;fillColor=#FFE6CC;whiteSpace=wrap;html=1;labelBorderColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="400" y="200" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="70666756c84bb93c-2" value="&lt;h4 style=&quot;font-size: 21px&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;font face=&quot;Tahoma&quot; style=&quot;font-size: 21px&quot;&gt;فرآیند پیشنهادی&lt;br&gt;&lt;/font&gt;&lt;font face=&quot;Tahoma&quot; style=&quot;font-size: 21px&quot;&gt;&amp;nbsp;پروپوزال&lt;/font&gt;&lt;/span&gt;&lt;/h4&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=22;strokeColor=none;fontStyle=1;align=center;fillColor=#E6E6E6;" parent="1" vertex="1">
+          <mxGeometry x="460" y="260" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="x_tjndUVU8M6RbAReDc0-7" value="&lt;span style=&quot;font-size: 20px&quot;&gt;مطالعه کتابخانه ای&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;strokeColor=#FFF4C3;fillColor=#E6E6E6;fontFamily=Tahoma;align=center;" vertex="1" parent="1">
+          <mxGeometry x="460" y="100" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="x_tjndUVU8M6RbAReDc0-8" value="&lt;span style=&quot;font-size: 20px&quot;&gt;جمع آوری اطلاعات&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;strokeColor=#FFF4C3;fillColor=#E6E6E6;fontFamily=Tahoma;align=center;rotation=90;verticalAlign=middle;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="306.90999999999997" width="196.91" height="106.18" as="geometry" />
+        </mxCell>
+        <mxCell id="x_tjndUVU8M6RbAReDc0-10" value="&lt;span style=&quot;font-size: 20px&quot;&gt;تجزیه و تحلیل داده ها&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;strokeColor=#FFF4C3;fillColor=#E6E6E6;fontFamily=Tahoma;align=center;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="460" y="520" width="200" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="x_tjndUVU8M6RbAReDc0-11" value="&lt;span style=&quot;font-size: 20px&quot;&gt;نتیجه گیری و نگارش رساله&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;strokeColor=#FFF4C3;fillColor=#E6E6E6;fontFamily=Tahoma;align=center;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="250" y="317.5" width="200" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="x_tjndUVU8M6RbAReDc0-21" value="&lt;font style=&quot;font-size: 18px&quot;&gt;مطالعه انواع سیستم های دسته بند براساس یادگیری&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};labelBackgroundColor=none;fillColor=#E6E6E6;fontFamily=Tahoma;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="675" y="135" width="425" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x_tjndUVU8M6RbAReDc0-22" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontFamily=Tahoma;fontColor=#000000;" edge="1" target="x_tjndUVU8M6RbAReDc0-21" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="160" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x_tjndUVU8M6RbAReDc0-23" value="&lt;font style=&quot;font-size: 18px&quot;&gt;مطالعه روش های دسته بند در پیش بینی ساختار&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};labelBackgroundColor=none;fillColor=#E6E6E6;fontFamily=Tahoma;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="685" y="72" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x_tjndUVU8M6RbAReDc0-24" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontFamily=Tahoma;fontColor=#000000;" edge="1" target="x_tjndUVU8M6RbAReDc0-23" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="114" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x_tjndUVU8M6RbAReDc0-25" value="&lt;font style=&quot;font-size: 18px&quot;&gt;ارائه مدل تحلیل و بررسی آن&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};labelBackgroundColor=none;fillColor=#E6E6E6;fontFamily=Tahoma;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="855.5" y="238" width="244.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x_tjndUVU8M6RbAReDc0-26" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontFamily=Tahoma;fontColor=#000000;" edge="1" target="x_tjndUVU8M6RbAReDc0-25" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="831.5" y="280" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x_tjndUVU8M6RbAReDc0-27" value="&lt;font style=&quot;font-size: 18px&quot;&gt;انتخاب داده های آزمایشی و&amp;nbsp;&lt;br&gt;آماده سازی آن ها&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};labelBackgroundColor=none;fillColor=#E6E6E6;fontFamily=Tahoma;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="858.75" y="300" width="238" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="x_tjndUVU8M6RbAReDc0-28" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontFamily=Tahoma;fontColor=#000000;" edge="1" target="x_tjndUVU8M6RbAReDc0-27" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="834" y="330" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x_tjndUVU8M6RbAReDc0-29" value="&lt;font style=&quot;font-size: 18px&quot;&gt;پیاده سازی مدل پیشنهادی&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};labelBackgroundColor=none;fillColor=#E6E6E6;fontFamily=Tahoma;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="857" y="398" width="243" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x_tjndUVU8M6RbAReDc0-30" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontFamily=Tahoma;fontColor=#000000;" edge="1" target="x_tjndUVU8M6RbAReDc0-29" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="834" y="440" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x_tjndUVU8M6RbAReDc0-31" value="&lt;font style=&quot;font-size: 18px&quot;&gt;تحلیل مدل پیشنهادی و بدست آوردن نتایج&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};labelBackgroundColor=none;fillColor=#E6E6E6;fontFamily=Tahoma;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="730" y="528" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x_tjndUVU8M6RbAReDc0-32" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontFamily=Tahoma;fontColor=#000000;" edge="1" target="x_tjndUVU8M6RbAReDc0-31" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="570" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x_tjndUVU8M6RbAReDc0-33" value="&lt;font style=&quot;font-size: 18px&quot;&gt;مقایسه با نتایج کارهای قبلی&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};labelBackgroundColor=none;fillColor=#E6E6E6;fontFamily=Tahoma;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="750" y="583" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x_tjndUVU8M6RbAReDc0-34" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontFamily=Tahoma;fontColor=#000000;" edge="1" target="x_tjndUVU8M6RbAReDc0-33" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="625" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x_tjndUVU8M6RbAReDc0-35" value="&lt;font style=&quot;font-size: 18px&quot;&gt;نگارش مقالات و انتخاب &lt;br&gt;ژورنال مناسب&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};labelBackgroundColor=none;fillColor=#E6E6E6;fontFamily=Tahoma;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="30" y="335" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="x_tjndUVU8M6RbAReDc0-36" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontFamily=Tahoma;fontColor=#000000;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="360" as="sourcePoint" />
+            <mxPoint x="250" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x_tjndUVU8M6RbAReDc0-37" value="&lt;font style=&quot;font-size: 18px&quot;&gt;آماده سازی و نوشتن رساله&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};labelBackgroundColor=none;fillColor=#E6E6E6;fontFamily=Tahoma;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="25" y="458" width="265" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x_tjndUVU8M6RbAReDc0-38" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontFamily=Tahoma;fontColor=#000000;exitX=0.18;exitY=-0.04;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="x_tjndUVU8M6RbAReDc0-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="430" as="sourcePoint" />
+            <mxPoint x="30" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x_tjndUVU8M6RbAReDc0-41" value="&lt;font style=&quot;font-size: 18px&quot;&gt;تاییدیه مقالات&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};labelBackgroundColor=none;fillColor=#E6E6E6;fontFamily=Tahoma;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="80" y="528" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x_tjndUVU8M6RbAReDc0-42" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontFamily=Tahoma;fontColor=#000000;exitX=0;exitY=0;exitDx=0;exitDy=37.5;exitPerimeter=0;" edge="1" target="x_tjndUVU8M6RbAReDc0-41" parent="1" source="x_tjndUVU8M6RbAReDc0-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="639" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
