@@ -1,2 +1,4 @@
 # mohammadreza-dehghanimahmoudabadi
-phd computer(software)
+محمدرضا دهقانی محمودآبادی در سال 1380 مدرک کارشناسی مهندسی کامپیوتر گرایش نرم‌افزار خود را از دانشگاه آزاد اسلامی واحد میبد و در سال 1389 مدرک کارشناسی ارشد مهندسی کامپیوتر گرایش نرم‌افزار خود را از دانشگاه پیام نور واحد تهران دریافت نمود. از مهر 1397 در مقطع دکتری رشته مهندسی کامپیوتر گرایش نرم‌افزار مشغول به تحصیل و پژوهش هست. زمینه‌های علمی موردعلاقه ایشان عبارت‌اند از: داده‌کاوی- یادگیری ماشینی- شبکه‌های پیچیده و اینترنت اشیا.
+Mohammadreza DehghaniMahmoudabadi received his bachelor's degree in computer engineering in 2001 from the Islamic Azad University and in 2010 he received his master's degree in computer engineering from PNU University in Tehran. Since October 2016, he has been studying and researching in the doctoral program in computer engineering. His favorite disciplines are Data Mining, Machine Learning, Bioinformatics, Complex Networks, and the Internet of Things.
+
